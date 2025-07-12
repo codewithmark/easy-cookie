@@ -18,6 +18,7 @@ Designed for beginner web developers — no dependencies, no complexity.
 
  🚀 Usage Examples
 
+```js
 // Add a cookie (default 1-day expiry)
 c.add('token', 'abc123');
 
